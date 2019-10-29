@@ -1,0 +1,12 @@
+.task {
+    margin: 15px 0;
+}
+
+.task-name {
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+.date {
+    padding: 0 10px;
+}
